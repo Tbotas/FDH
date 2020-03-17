@@ -1,5 +1,16 @@
-# Mise en situation
-:heart: Théo
+# Machine learning B3A
+### Arnaud Daugen / Anthony Flores / Théo Hay / Théo Ferreira
+
+## Introduction 
+
+L'objetif de ce TP est la découverte du Machine Learning à travers un excercice d'estimation  de prix vente de maison. Nous avons pour cela utiliser les outils que Kaggle avait mis à notre disposition.
+
+Nous pouvons découper nos travaux en quatres grands "chapitres":
+
+1.  ``Copréhention`` du problème
+2. ``Visualisation`` des données
+3. ``Traitement`` des données
+4. ``Prédiction`` et résultat final
 
 # Historique des mises à jour
 |Version|Modifications|Score|
