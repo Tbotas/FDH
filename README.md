@@ -1,5 +1,5 @@
 # Machine learning B3A
-### Arnaud Daugen / Anthony Flores / Théo Hay / Théo Ferreira
+### Arnaud Dauguen / Anthony Flores / Théo Hay / Théo Ferreira
 
 ## Introduction 
 
