@@ -10,10 +10,10 @@ L'énoncé est le suivant:
 
 Nous pouvons découper nos travaux en quatres grands "chapitres":
 
-1.  ``Copréhention`` du problème
-2. ``Visualisation`` des données
-3. ``Traitement`` des données
-4. ``Prédiction`` et résultat final
+1.  **Copréhention** du problème
+2. **Visualisation** des données
+3. **Traitement** des données
+4. **Prédiction** et résultat final
 
 Vous trouverez ci-dessous le tableau relatif aux différentes versions de notre notebook et des scores que nous avons obtenus.
 
